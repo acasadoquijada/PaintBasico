@@ -6,7 +6,7 @@ Paint basico hecho en Java usando la clase graphics
 
 ##Uso
 
-Para ejecutarlo hay que ejecutar `java -jar PaintBasico`
+Para ejecutarlo hay que usar `java -jar PaintBasico`
 
 ##Características
 
