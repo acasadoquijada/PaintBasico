@@ -1,5 +1,5 @@
-Paint Básico
-===========
+# Paint Básico
+
 _por @acasadoquijada_
 
 Paint basico hecho en Java usando la clase graphics
@@ -8,7 +8,7 @@ Paint basico hecho en Java usando la clase graphics
 
 Para ejecutarlo hay que usar `java -jar PaintBasico`
 
-##Características
+## Características
 
 Al ejecutarlo nos aparecerá lo siguiente
 
@@ -33,7 +33,7 @@ Y si queremos pintar las figuras (rectángulo, óvalo) con relleno
 ![relleno](http://i1045.photobucket.com/albums/b460/Alejandro_Casado/paint-basico/relleno_zps0metus7v.png)
 
 
-##Licencia
+## Licencia
 
 [Licencia](LICENSE)
 
